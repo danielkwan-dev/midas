@@ -1,6 +1,6 @@
 # Midas - QHacks 2026
 
-Theme: The Golden Age
+Theme: "The Golden Age"
 
 Authors: Daniel Kwan, Diego Gonzalez, Ryan Li, Siddharth Tiwari
 
